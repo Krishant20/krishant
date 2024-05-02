@@ -1,0 +1,6 @@
+2024-04-11 22:34:34,944:INFO:Pyhon.test_logging:Information statement
+2024-04-11 22:34:34,944:WARNING:Pyhon.test_logging:Something is in warning code
+2024-04-11 22:34:34,944:ERROR:Pyhon.test_logging:A major error has happend
+2024-04-11 22:34:34,944:CRITICAL:Pyhon.test_logging:critical issue
+2024-04-11 22:39:34,350:CRITICAL:Pyhon.test_logging:critical issue
+2024-04-11 22:39:50,027:CRITICAL:Pyhon.test_logging:critical issue
